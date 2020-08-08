@@ -1,2 +1,3 @@
-# mojo
-Markets Mojo
+# Markets Mojo Scanner
+
+- Added Markets Mojo Status
